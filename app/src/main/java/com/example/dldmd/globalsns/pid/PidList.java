@@ -37,7 +37,7 @@ public class PidList extends AppCompatActivity {
     LinearLayoutManager linearLayoutManager;
     PidAdapter pidAdapter;
     PidVO pidVO;
-
+    //변경점 테스트
     //추출된 key값 다시 찢기
     JSONArray jsonArray;
     StringBuffer sb;
